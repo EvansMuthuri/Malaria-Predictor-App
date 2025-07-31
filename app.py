@@ -166,7 +166,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header Section
-st.markdown("<h3 style='color: #FF6F00; text-align: center; margin-bottom: 0.2em; font-weight: bold; letter-spacing: -0.03em;'>Malaria Prediction Application</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='color: #FF6F00; text-align: center; margin-bottom: 0.2em; font-weight: bold; letter-spacing: -0.03em;'>Malaria Diagnosis Application</h3>", unsafe_allow_html=True)
 # st.markdown("<p class='main-header'>Malaria Prediction Application</p>", unsafe_allow_html=True)
 # st.markdown("<p class='subheader'>Predicting & Reducing Malaria Mortality in Kenya</p>", unsafe_allow_html=True)
 
